@@ -2,4 +2,4 @@ PermitRootLogin no
 
 PasswordAuthentication no
 
-AuthorizedKeysFile /home/YOUR_ADMINISTRATOR_USER/.ssh/authorized_keys
+AuthorizedKeysFile /home/.ssh/authorized_keys
