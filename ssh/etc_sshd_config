@@ -1,4 +1,4 @@
-PermitRootLogin no
+PermitRootLogin without-password
 
 PasswordAuthentication no
 
