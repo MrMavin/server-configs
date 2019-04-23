@@ -1,5 +1,0 @@
-PermitRootLogin without-password
-
-PasswordAuthentication no
-
-AuthorizedKeysFile /home/.ssh/authorized_keys
